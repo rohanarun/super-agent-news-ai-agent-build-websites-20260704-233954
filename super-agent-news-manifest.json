@@ -1,0 +1,63 @@
+{
+  "citations": [
+    "[hostinger.com](https://www.hostinger.com)",
+    "[builtin.com](https://builtin.com)",
+    "[memeburn.com](https://memeburn.com)",
+    "[techcrunch.com](https://techcrunch.com)",
+    "[cnet.com](https://www.cnet.com)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com)",
+    "[treasure.tools](https://treasure.tools/ai-css-generator)"
+  ],
+  "design_plan": "rng_seed=42; layout=centered-hero; hero_max_width\u22481120px; aida_check=pass; bento_density=grid-auto-flow:dense; label_sweep=computer-use cache x2; button_contrast=ink/white verified; competitors_sweep=Folk, Orchids, Siri, ChatGPT, Gemini, Grok all mentioned",
+  "generated_at": "2026-07-04T23:40:02.346171+00:00",
+  "headline": "AI agent to build websites",
+  "site_brief": {
+    "audience": "founders, operators, and creators who want an AI agent to build and publish websites",
+    "canonical_url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'AI agent to build websites', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "AI agent build websites",
+      "AI website builder agent",
+      "AI agent GitHub deploy website",
+      "computer use AI website generation"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "ai-agent-build-websites",
+    "title": "AI agent to build websites",
+    "use_case_intent": "show how Super can research, generate, push to GitHub, publish, and iterate website assets with real computer-use workflows"
+  },
+  "summary": "An indexable, practical use\u2011case page showing how Super acts as an AI agent that can research, build, deploy, and iterate websites using real computer use and a reusable computer-use cache. Built for founders, operators, and creators who want more than a chat-based website builder."
+}
